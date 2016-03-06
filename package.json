@@ -6,28 +6,20 @@
   "scripts": {
     "start": "NODE_ENV=development node_modules/.bin/webpack-dev-server --config webpack.conf.js"
   },
-  "author": "Ivo Pletikosic <ivo@poeticsilk.com>",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^6.3.3",
     "babel-cli": "^6.6.5",
     "babel-core": "^6.6.5",
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.6.0",
     "babel-preset-react": "^6.5.0",
-    "babel-preset-react-hmre": "^1.1.0",
-    "extract-text-webpack-plugin": "^1.0.1",
-    "file-loader": "^0.8.5",
     "history": "^2.0.1",
-    "node-sass": "^3.4.2",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-redux": "^4.4.0",
     "react-router": "^2.0.0",
     "react-router-redux": "^3.0.0",
     "redux": "^3.3.1",
-    "sass-loader": "^3.1.2",
-    "style-loader": "^0.13.0",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
   }

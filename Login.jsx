@@ -15,6 +15,6 @@ export default React.createClass({
 
     onRegister() {
         console.log('register button');
-        browserHistory.push('#/register');
+        browserHistory.push('/register');
     }
 });
