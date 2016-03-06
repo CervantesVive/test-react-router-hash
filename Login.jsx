@@ -1,7 +1,3 @@
-/**
- * Login View
- * @module components/Login/Login
- */
 import React, { PropTypes } from 'react';
 import { browserHistory, Link } from 'react-router';
 

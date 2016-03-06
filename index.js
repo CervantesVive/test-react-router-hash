@@ -1,7 +1,6 @@
 /*global window, document */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'babel-polyfill';
 import { Provider } from 'react-redux';
 import { Router, useRouterHistory } from 'react-router';
 import { createHashHistory } from 'history';
